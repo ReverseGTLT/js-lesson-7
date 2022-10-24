@@ -30,3 +30,5 @@ store.clients['Галина Мачинська'] = {
   quantity: 1,
   bonuses: 1000,
 }
+
+console.log(Object.values(store))
